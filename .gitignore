@@ -18,6 +18,9 @@ data/input/*
 !data/input/examples/**
 !data/input/input_examples.csv
 
+# Ignore lock files
+*.lock
+*.lck
 
 # Ignore virtual environments
 venv/
