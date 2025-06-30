@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "|  $\\begin{aligned} & \\text { O } \\\\ & \\text { S } \\\\ & \\text { S } \\end{aligned}$ | 1717 | 2957 | 43 | 3858 | - | 5125 | 108698 | 120244 | 28 | 143 | 510 | 243 | - | - | 1205 | 244771 | 147322 | 702189 | 411281  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   | 376 | 2551 | 15 | 74 | - | - | 423 | 3964 | 13080 | 4851 | 3731 | 912 | 1836 | - | - | 31813 | 32904 | 165184 | 200509  |\n|   | 73068 | 152271 | 1819 | 2089 | - | - | 19350 | 24471 | 336 | 5530 | 25242 | 28709 | 1 | 99 | 96542 | 70484 | 500011 | 214041 | 1500633  |\n|   | 51 | 3 | - | 1 | - | 1 | 266 | 96 | 52 | - | 2 | 18 | - | - | - | - | 490 | 426 | 3510  |\n\n$\\begin{array}{llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1376,
+        "width": 1892
+      }
+    }
+  ],
+  "model": "mistral-ocr-2505-completion",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 443341
+  },
+  "document_annotation": null
+}

@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ein- und Ausfuhr im deutschen Vollgebic im Monat April 1881\n\nund Befamml-Ein- und Ausfuhr für die Zeit vom 1. Januar bis Ende April 1881. (Nach den Veröffentlichungen des Baitertiden Slatiftiden Amts.)\n\n|  Baarenartifel | Ein- und Ausfuhr im freien Verkehr im Monat April 1881 von bequ. nach |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1388,
+        "width": 1888
+      }
+    }
+  ],
+  "model": "mistral-ocr-2505-completion",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 522374
+  },
+  "document_annotation": null
+}

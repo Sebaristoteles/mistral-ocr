@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Um die reiche Mannigfaltigkeit und den Wechsel zu beurteilen, folgt Tabelle II:\n\n|  | Größte Frequenz |  | Niedrigste Frequenz |  | Größte Zunahme |  | Größte Abnahme |  |\n| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |\n|  | Semester | Zahl | Semester | Zahl | Semester | Zahl | Semester | Zahl |\n| Berlin | 188 | 1441 | S.-S. 1860 | 348 | 183 | 383 | 1883 | 413 |\n| Breslau | 187 | 432 | S.-S. 1841 | 101 | 187 | 66 | 1878 | 63 |\n| Halle | 188 | 186 | S.-S. 1860 | 42 | 187 | 34 | 1835 | 35 |\n| Greifswald | S. 1875 | 105 | S. 1862 | 6 | 1872 | 23 | 187 | 32 |\n| Königsberg | S. 1875 | 215 | S. 1863 | 57 | 1851 | 42 | 1832 | 28 |\n| Bonn | S. 1851 | 374 | 185 | 116 | 1880 | 114 | 182 | 90 |\n| Göttingen | 188 | 437 | 187 | 77 | 1871 | 54 | 1838 | 124 |\n| Marburg | 1833 | 128 | 187 | 12 | 188 | 31 | 188 | 33 |\n| Kiel | 1834 | 113 | 1872 | 9 | 1883 | 34 | 1848 | 35 |\n| München | 1852 | 898 | 1874 | 212 | 1850 | 214 | 187 | 133 |\n| Würzburg | 188 | 214 | 1834 | 48 | 188 | 60 | 189 | 39 |\n| Erlangen | 1855 | 190 | 187 | 35 | 189 | 40 | 188 | 56 |\n| Tübingen | 1879 | 320 | 188 | 42 | 1879 | 158 | 182 | 374 |\n| Heidelberg | 184 | 566 | 187 | 150 | 1878 | 227 | 1879 | 110 |\n| Freiburg | 1885 | 263 | 1860 | 12 | 1885 | 128 | 188 | 142 |\n| Leipzig | 187 | 1130 | 188 | 257 | 187 | 196 | 1881 | 184 |\n| Jena | 188 | 189 | 189 | 58 | 1877 | 48 | 187 | 35 |\n| Gießen | 188 | 142 | 1859 | 32 | 1852 | 30 | 188 | 30 |\n| Rostock | 1868 | 72 | 188 | 25 | 1885 | 21 | 187 | 14 |\n| Straßburg | 188 | 240 | 187 | 116 | 187 | 40 | 1883 | 40 |\n\nAbgesehen von Straßburg, das eine Schöpfung der neuesten Zeit ist, haben Halle, Bonn, Göttingen, Marburg, Kiel, München, Würzburg, Erlangen, Heidelberg, Jena, Gießen und Rostock ihre höchste Blüte in einer Zeit erreicht, die nichts zu thun hat mit dem Aufschwunge seit 1870 oder 1866. Einen wirklichen Grund dafür zu finden, hält schwer. So gehörte das S.-S. 1851, in dem Bonn die höchste Zahl erreichte, zu den für Bonn schlechtesten, da mehrere Professoren (Bauerband, Walter) durch parlamentarische Thätigkeit am Lesen verhindert waren. Bezüglich der übrigen Fakultäten fällt der höchste Stand in die neueste Zeit und hängt zusammen mit Verhältnissen, welche noch zu besprechen sind.\n\nDer niedrigste Stand findet für die 6 altpreußischen Fakultäten seine Erklärung in der Ueberfüllung, auf welche infolge wiederholter Abmahnungen seitens des Justizministers am Ende der 50 er Jahre der Rückschlag erfolgte. Vom W.-S. 1852-53 bis 1860 fiel Berlin von 720 der höchsten Ziffer vor 1871 bis auf 348, Breslau von 284 bis auf 115 (also nur 14 über dem Minimum), Halle von 156 bis auf 42, Greifswald zuletzt bis auf 6, Königsberg von 171 (S.-S. 1852) bis auf 57 (S.-S. 1863), Bonn von 374 bis auf 116 (1858-59). Während 1852-53 auf diesen 6 Fakultäten 1724 Studierende sich befanden, waren es S.-S. 1860 nur 744, also nur 43,15. Für Göttingen, Marburg, Kiel, Heidelberg liegt der Erklärungsgrund im Kriegsjahr, für Tübingen, Freiburg, Jena und Gießen dürfte er in ähnlicher Überfüllung wie in Altpreußen liegen, woraus sich auch die niedrigen Zahlen in den ersten 60 er Jahren in Heidelberg und Göttingen erklären. Dage:en ist der niedrigste Stand in München und Würzburg kaum zu erklären. Erlangen ist von 1867 stets heruntergegangen bis 1880, Straßburg hatte im ersten Semester das Minimum.",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1360,
+        "width": 904
+      }
+    }
+  ],
+  "model": "mistral-ocr-2505-completion",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 765167
+  },
+  "document_annotation": null
+}

@@ -1,0 +1,34 @@
+# Ignore environment variables file (includes sensitive information like API keys)
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore output data except for examples folder
+data/output/*
+!data/output/examples/
+!data/output/examples/**
+
+# same for input data
+data/input/*
+!data/input/examples/
+!data/input/examples/**
+!data/input/input_examples.csv
+
+
+# Ignore virtual environments
+venv/
+.env/
+env/
+ENV/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db

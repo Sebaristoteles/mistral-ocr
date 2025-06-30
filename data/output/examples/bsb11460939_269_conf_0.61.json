@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Der neuen Tabade benfelben eine gute Mufmerffamkeit fídern wirb. Für bie alten Borräthe ist bie Nadyrage mehr abgeldmädt, webbatb darin nur nech verringelte Umfäge zu ziemlid unveränterten Wreifen vorfemmen. - Bon Warplant-Tabad fint bie befferen Gattungen nod einigermaben gefudt, bie bebhatb aud, fefern biehiften zum Berfauf gefangen, fehr volle Wreife brtingen; ein großes Gefchäft barin ist aber um fe weniger zu erwarten, als einmal tas Mugeber baven nur ein fehr befdränftes ist und bann aud bie beben Ferberungen ber Mugeber bie Mifchfüffs erfobwerten. - Die fimblgen Umfäge ber legten Wode befdränften fid auf Kleinigfeiten Dbie-Tabad, in mittlerer und befferer Wager, fewie auf ein paar Warten neuer, leidter Birginn-Tabade, bie um fe eber Beadtung fuden muften, als fid für alle zu Sdnettszwefen paffente Tabade bie biebretige Meinung unveränbert behauptet.\n\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1892,
+        "width": 1368
+      }
+    }
+  ],
+  "model": "mistral-ocr-2505-completion",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 1544043
+  },
+  "document_annotation": null
+}

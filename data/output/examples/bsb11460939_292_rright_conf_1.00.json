@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ein- und Ausfuhr im deutschen Bollgebiet im Monat Mai 1881\n\nund Geformt-Ein- und Ausfuhr für die Zeit vom 1. Januar bis Ende Mai 1881. (Nach den Berücksichtigung des Äußerlichen Staatsbildern Amts.)\n\n|  Baarenartifel | Ein- (für) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",
+      "images": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1368,
+        "width": 1884
+      }
+    }
+  ],
+  "model": "mistral-ocr-2505-completion",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 470325
+  },
+  "document_annotation": null
+}
