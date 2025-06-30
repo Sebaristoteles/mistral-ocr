@@ -20,6 +20,7 @@ data/input/*
 
 # Ignore lock files
 *.lock
+*.~lock
 *.lck
 
 # Ignore virtual environments
